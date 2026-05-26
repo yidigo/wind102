@@ -11,3 +11,4 @@
 ![image](https://github.com/yidigo/wind102/assets/75001675/03970304-0364-48d2-a259-a66ead074785)
 -----
 支持docker部署，prometheus监控
+如果需要支持，可以联系dHNjbGFiemhhbmdAZm94bWFpbC5jb20=
