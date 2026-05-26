@@ -2,9 +2,9 @@
 102风功率预测协议  光伏预测文件传输协议
 电力DL/T IEC60870-5-102协议
 -----
-如果需要支持，可以联系dHNjbGFiemhhbmdAZm94bWFpbC5jb20=
 固定长度帧
 -----
+如果需要支持，可以联系dHNjbGFiemhhbmdAZm94bWFpbC5jb20=
 ![image](https://github.com/yidigo/wind102/assets/75001675/f368361e-6ffc-48d0-94b1-db4bf612736d)
 -----
 可变长度帧
